@@ -1,51 +1,51 @@
 [names]
-Justice Coalition
-Family Values Party
-Labor League
-Justice League
+Samling För Rättvisa
+Famijevärderingsparty
+Arbetsföreningen
+Rättviseföreningen
 Det Gröna Kollektivet
-herravälde
+Herravälde
 Folkets Valparti
-Liberal Justice Wing
-Rörelsen för rättvisa
+Liberala Rättviseförbundet
+Rörelsen För Rättvisa
 Frihetsbrigaden
-Holy Justice Alliance
+Heliga Rättvisealliansen
 Futuristpartiet
 Folkdemokraterna
 De Populära Republikanerna
 Republikanska Partiet
 Demokratiska Partiet
 De Nya Teknokraterna
-National Technocrats Party
+Nationella Teknokratpartiet
 Jämställdhetspartiet
 Framtidens Demokrater
 Vetenskapspartiet
 Industripartiet
-Civil Rights League
-Modern Family Party
-Natural Law Party
+Medborgarrättsföreningen
+Moderna Familjepartiet
+Naturlagspartiet
 De Radikala Demokraterna
 De Radikala Lojalisterna
 Partiet För Förändring
-Rörelsen för sann frihet
+Rörelsen för Sann Frihet
 De Egalitära Demokraterna
 De Egalitära Republikanerna
-Den Nykolonialistiska Ligan
-Social Justice Party
+Den Nykolonialistiska Föreningen
+Sociala Rättvisepartiet
 Konstitutionspartiet
 Antikorruptionsrörelsen
-Socialist Revolutionary Party
-Libertarian Freedom League
+Socialistiska Revolutionära Partiet
+Libertarianska Frihetsföreningen
 Patriotiska Alliansen
-Troens Försvarare
+Trons Försvarare
 Den Kommunistiska Alliansen
-Progressive Change Party
+Progressiva Förändringspartiet
 Rörelsen För Radikal Förändring
-No Going Back Party
-United Diversity Alliance
+Ingen Återvändopartiet
+Förenade Mångfaldsalliansen
 Stoppa Patriarkatets Parti
 Det Eviga Frihetspartiet
-Unity Pacifists
+Enhetspacifister
 De Demokratiska Moderaterna
 Förenade Moderaterna
 De Nya Moderaterna
@@ -55,20 +55,20 @@ De Revolutionära Kapitalisterna
 Äganderättspartiet
 Partiet Grundläggande Rättigheter
 Progressiva Fundamentalister
-Eco Union
+Ekounionen
 Techno-Miljöaktivisterna
 Den Gröna Alliansen
-Citizens Alliance
-Absolute Unity Party
-socialdemokrat
-fackföreningsmedlem
+Madborgaralliansen
+Absolut Enhetpartiet
+Socialdemokraterna
+Fackföreningsmedlemmarna
 Förenade Högern
 Förenade Vänstern
 Den Nya Högern
 Den Nya Vänstern
-Progressive Fascist Party
+Progressiva Fascist Partiet
 Välfärdsreformpartiet
-Reform Society
+Reformera Samhället
 Radikala Reformpartiet
 
 

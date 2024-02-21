@@ -1,7 +1,7 @@
 [config]
 name  = afghan
 guiname = "Islamiska emiratet i Afghanistan"
-description = "Afghanistan, officiellt den Islamiska republiken Afghanistan, är ett landlockat land vid korsningen av Central-och Sydasien. Afghanistan gränsar till Pakistan i öster och söder, Iran i väster, Turkmenistan, Uzbekistan och Tadzjikistan i norr och Kina i nordost. Upptar 652 000 kvadratkilometer (252 000 kvm), Det är ett bergigt land med slätter i norr och sydväst. Kabul är huvudstad och största stad. Befolkningen är cirka 32 miljoner, och består mestadels av etniska Pashtuner, Tadjiker, Hazaras och uzbeker."
+description = "Afghanistan, officiellt den Islamiska republiken Afghanistan, är ett kustlöst land vid korsningen av Central-och Sydasien. Afghanistan gränsar till Pakistan i öster och söder, Iran i väster, Turkmenistan, Uzbekistan och Tadzjikistan i norr och Kina i nordost. Upptar 652 000 kvadratkilometer (252 000 kvm), Det är ett bergigt land med slätter i norr och sydväst. Kabul är huvudstad och största stad. Befolkningen är cirka 32 miljoner, och består mestadels av etniska Pashtuner, Tadjiker, Hazaras och uzbeker."
 
 jobtitle = "President"
 
@@ -16,5 +16,5 @@ BNP per capita: = " 2 024 dollar (156 228,92 AFN)"
 Demokratiindex: = "2.85/10 (141st)"
 Största industri: = "gruvindustrin"
 Huvudstad Och Största Stad: = "Kabul"
-Körsidan: = "höger"
-Anropskod: = "+93"
+Körsida: = "höger"
+Landsnummer: = "+93"

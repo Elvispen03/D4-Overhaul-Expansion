@@ -1,7 +1,7 @@
 [config]
 name  = aze
 guiname = "Republiken Azerbajdzjan"
-description = "Azerbajdzjan, formellt Republiken Azerbajdzjan, är ett transkontinentalt land placerat vid gränsen mellan östra Europa och västra Asien. Det är en del av Södra Kaukasus regionen och är bunden av Kaspiska havet till öst, Ryssland (Republiken Dagestan) till norr, Georgien till nordväst, Armenien och Turkiet till väst, och Iran till söder. Baku är huvudstaden och den största staden"
+description = "Azerbajdzjan, formellt Republiken Azerbajdzjan, är ett transkontinentalt land placerat vid gränsen mellan östra Europa och västra Asien. Det är en del av Södra Kaukasus regionen och är bunden av Kaspiska havet till öst, Ryssland (Republiken Dagestan) till norr, Georgien till nordväst, Armenien och Turkiet till väst, och Iran till söder. Baku är huvudstaden och den största staden."
 
 jobtitle = "President"
 
@@ -16,4 +16,4 @@ Demokratiindex: = "2.87/10 (134:e)"
 Största industri: = "Olja och gas"
 Huvudstad och största stad: = "Baku"
 Körsida: =	"höger"
-Anspråkskod: = "+944"
+Landsnummer: = "+944"
