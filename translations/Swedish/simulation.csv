@@ -61,12 +61,12 @@
 ,,,
 #,HumanDevelopment,Mänsklig utveckling,"Den genomsnittliga nivån av mänsklig utveckling i ditt land. Detta instrument består av tre dimensioner som mäts över din befolkning: deras hälsa, deras kunskapsnivå och deras inkomst. En hög mänskligt utveckling kommer attrahera invandring samt turister och är en indikator över den övergripande utvecklingen av ditt land."
 #,Corruption,Korruption,"All form av oärlig eller oetiskt beteende av de i maktpositioner, både i den offentliga och privata sektorn. Korruption skapar hinder för din ekonomi då resurser blir stulna eller slösas bort på ett ineffektivt sätt. Det minskar även det utländska intresset för bistånd och investeringar. Väljares förtroende för nationens ledning minskar när korruptionen ökar."
-#,ForeignAidReceived,Mottaget bistånd,"Mängden mottaget bistånd. Resurser kan skickas från ett land till ett annat av flera anledningar. 
-#,Democracy,Demokrati,"
-#,GenderEquality,Jämställdhet,"
-#,Stability,Stabilitet,"
-#,ForeignInvestment,Utländska investeringar,"
-#,Emigration,Emigration,"
+#,ForeignAidReceived,Mottaget bistånd,"Mängden mottaget bistånd. Resurser kan skickas från ett land till ett annat av flera anledningar. Om ditt land är fattigt eller har akuta problem som kan bli hjälpt av bistånd. Det kan ges i humanitära eller altruistiska syften. Utländskt bistånd kan också ges som ett tecken på bra diplomatiska relationer. Det kan också ges för att stärka en allians eller för att få tillgång till ditt lands resurser."
+#,Democracy,Demokrati,"Demokratins status i ditt land. Detta mått återspeglar nivån på genomförandet av demokratiska system som uppmuntrar valpluralism, politiskt deltagande, medborgerliga friheter och hur regeringen fungerar. Som ledare är inskränkning av demokrati en metod för att få personlig makt och kontrollera ditt lands medborgare, men det kan mötas av stor opposition."
+#,GenderEquality,Jämställdhet,"Ett mått på jämställdheten mellan kvinnliga och manliga medborgare. Socialt konstruerade könsroller resulterar i olika behandling av och syn på individer baserad på deras kön. Dimensioner av ojämställdhet mellan könen mäts i kvinnlig reproduktiv hälsa, myndighet och deltagande på arbetsmarknaden."
+#,Stability,Stabilitet,"Statens stabilitet. Detta är ett mått på hur stabil den sittande regeringen i nationen är, med hänsyn till ett brett spektrum av indikatorer för att bedöma risken för kollaps. Instabilitet kommer påverka internationella relationer, utländska investeringar samt turism, och indikera att det finns fundamentala problem med ditt lands ledning."
+#,ForeignInvestment,Utländska investeringar,"Mängden investeringar i inhemska företag och infrastruktur av utländska investerare. Investerare kan anse ditt land vara ett bra ställe att investera, om det anses vara stabilt samt erbjuder fördelar såsom en produktiv och billig arbetskraft."
+#,Emigration,Emigration,"Antal personer som permanent väljer att lämna detta land och flytta någon annanstans. Det kan ske av ekonomiska anledningar eller oroligheter över landets stabilitet och säkerhet."
 #,IllegalImmigration,Illegal invandring,"
 #,RareEarthPrice,Priser på jordartsmetaller,
 #,MentalHealth,Mentalhälsa,"
