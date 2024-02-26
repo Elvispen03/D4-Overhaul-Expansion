@@ -67,9 +67,9 @@
 #,Stability,Stabilitet,"Statens stabilitet. Detta är ett mått på hur stabil den sittande regeringen i nationen är, med hänsyn till ett brett spektrum av indikatorer för att bedöma risken för kollaps. Instabilitet kommer påverka internationella relationer, utländska investeringar samt turism, och indikera att det finns fundamentala problem med ditt lands ledning."
 #,ForeignInvestment,Utländska investeringar,"Mängden investeringar i inhemska företag och infrastruktur av utländska investerare. Investerare kan anse ditt land vara ett bra ställe att investera, om det anses vara stabilt samt erbjuder fördelar såsom en produktiv och billig arbetskraft."
 #,Emigration,Emigration,"Antal personer som permanent väljer att lämna detta land och flytta någon annanstans. Det kan ske av ekonomiska anledningar eller oroligheter över landets stabilitet och säkerhet."
-#,IllegalImmigration,Illegal invandring,"Antal personer som lyckas komma in i vårt land trots att de inte har riktiga uppgifter."
-#,RareEarthPrice,Priser på jordartsmetaller,"
-#,MentalHealth,Mentalhälsa,"
+#,IllegalImmigration,Illegal invandring,"Antal personer som lyckas komma in i vårt land trots att de inte har riktiga uppgifter. Detta kan minskas genom starkare gränskontroller samt liknande metoder. Många av de faktorer som driver invandring, driver också illegal invandring."
+#,RareEarthPrice,Priser på jordartsmetaller,"Det nuvarande fria marknadspriset för en mängd specialmetaller som används i högteknologisk utrustning som mobiltelefoner, elbilar, vindturbiner och datorutrustning. En stabil tillgång till sådana metaller är nödvändigt för en högteknologisk ekonomi."
+#,MentalHealth,Psykisk hälsa,"Ett mått över den genomsnittliga psykiska hälsan hos våra medborgare. Psykisk ohälsa kan lägga en enorm börda på vårdgivare och minska det allmäna måendet hos våra medborgare, så det borde vara en stor prioritering för varje regering. En rimlig balans mellan arbete och privatliv kan hjälpa. Samtidigt kommer extrema problem som väldigt hög brottslighet, drogberoende och fattigdom att förvärra den psykiska hälsan, liksom en dålig miljö."
 ,,,
 #,youthcrime,Ungdomsbrottslighet,"Ungdomsbrottslighet representerar alla brott som begås av personer under 18 år."
 #,StrayAnimals,Hemlösa djur,"Hemlösa djur innefattar alla djur som strövar fritt på gatorna och är utan hem. Oavsett om det är hundar, katter, apor eller liknande djur."
