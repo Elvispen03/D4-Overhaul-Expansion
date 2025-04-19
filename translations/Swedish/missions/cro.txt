@@ -1,19 +1,19 @@
 [config]
 name  = cro
-guiname = "Republic of Croatia"
-description = "Croatia, officially the Republic of Croatia, is a country located at the crossroads of Central and Southeast Europe. Its coast lies entirely on the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west. Its capital and largest city, Zagreb, forms one of the country's primary subdivisions, with twenty counties. Other major urban centers include Split, Rijeka and Osijek. The country spans 56,594 square kilometres (21,851 square miles), and has a population of nearly 3.9 million."
+guiname = "Republiken Kroatien"
+description = "Kroatien, officiellt Republiken Kroatien, är ett land lokaliserat vid korsningen av Central- och Sydösteuropa. Dess kust är helt beläget vid Adriatiska havet. Det gränsar mot Slovenien till nordväst, Ungern till nordöst, Serbien till öst, Bosnien och Hercegovina samt Montenegro till sydöst, och delar en kustgräns med Italien till väst. Huvudstaden och största staden, Zagreb, utgör en av landets primära underavdelningar, med tjugo län. Andra stora urbana center inkluderar Split, Rijeka och Osijek. Landet omfattar 56,594 kvadratkilometer (21,851 square miles), och har en befolkning på nästan 3.9 miljoner."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "Our Beautiful Homeland"
-Population: = "3.8 million (2022 est)"
-Area: = "56,594 km2 (21,851 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$164 billion"
-GDP per capita: = "$42,873"
-Democracy Index: = "~6.5/10 (59th)"
-Biggest Industry: = "Service Sector"
-Capital And Largest City: = "Zagreb"
-Driving side: =	"right"
-Calling code: = "+385"
+Nationalsång: = "Vårt Vackra Hemland"
+Befolkning: = "3.8 miljoner (2022 est)"
+Yta: = "56,594 km² (21,851 sq mi)"
+Valuta: = "Euro (€) (EUR)"
+BNP: = "$164 miljarder"
+BNP per capita: = "$42,873"
+Demokratiindex: = "~6.5/10 (59:e)"
+Största industri: = "Tjänstesektor"
+Huvud- och största stad: = "Zagreb"
+Körsida: =	"höger"
+Landsnummer: = "+385"
