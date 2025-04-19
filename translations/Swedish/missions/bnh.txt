@@ -1,19 +1,19 @@
 [config]
 name  = bnh
-guiname = "Bosnia and Herzegovina"
-description = "Bosnia and Herzegovina is a country in Southeast Europe, situated on the Balkan Peninsula. It borders Serbia to the east, Montenegro to the southeast, and Croatia to the north and southwest. In the south it has a 20 kilometres (12 miles) long coast on the Adriatic Sea, with the town of Neum being its only access to the sea. Bosnia has a moderate continental climate with hot summers and cold, snowy winters. In the central and eastern regions, the geography is mountainous, in the northwest it is moderately hilly, and in the northeast it is predominantly flat. Herzegovina, the smaller, southern region, has a Mediterranean climate and is mostly mountainous. Sarajevo is the capital and the largest city."
+guiname = "Bosnien och Hercegovina"
+description = "Bosnien och Hercegovina är ett land i Sydösteuropa, beläget på Balkanhalvön. Det gränsar mot Serbien till öst, Montenegro till sydöst, och Kroatien till norr och sydväst. I söder har det en 20 kilometer lång kust mot Adriatiska havet, med staden Neum som dess enda väg till havet. Bosnien har ett tempererat inlandsklimat med varma somrar och kalla, snöiga vintrar. I de centrala och östra delarna, är geografin bergig, i nordväst är det måttligt kulligt och i nordöst är det övervägande platt. Hercegovina, den mindre, södra regionen, har ett medelhavsklimat och är mestadels bergigt. Sarajevo är huvudstad och största stad."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "National Anthem of Bosnia and Herzegovina (Very Original)"
-Population: = "3.4 million (2022)"
-Area: = "51,229 km2 (19,780 sq mi)"
-Currency: = "Convertible mark"
-GDP: = "$71 billion"
-GDP per capita: = "$20,734"
-Democracy Index: = "5.00/10 (94th)"
-Biggest Industry: = "Service Sector"
-Capital And Largest City: = "Sarajevo"
-Driving side: =	"right"
-Calling code: = "+387"
+Nationalsång: = "Intermeco"
+Befolkning: = "3.4 miljoner (2022)"
+Yta: = "51,229 km² (19,780 kvm)"
+Valuta: = "Konvertibilna marka (BAM)"
+BNP: = "$71 miljarder"
+BNP per capita: = "$20,734"
+Demokratiindex: = "5.00/10 (94:E)"
+Största industri: = "Tjänstesektorn"
+Huvud- och största stad: = "Sarajevo"
+Körsida: =	"höger"
+Landsnummer: = "+387"
