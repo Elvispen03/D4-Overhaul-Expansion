@@ -6,7 +6,7 @@ description = "Afghanistan, officiellt den Islamiska republiken Afghanistan, är
 jobtitle = "President"
 
 [stats]
-Motto: = "Det finns ingen gud utom Allah; Muhammad är Allahs budbärare."
+Valspråk: = "Det finns ingen gud utom Allah; Muhammad är Allahs budbärare."
 Nationalsång: = "Nationalsång (Mycket Original)"
 Befolkning: = "32,2 miljoner (2019)"
 Område: = "652 230 km² (251 830 kvm)"
