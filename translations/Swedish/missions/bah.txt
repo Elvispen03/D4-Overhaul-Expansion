@@ -6,7 +6,7 @@ description = "Bahamas, officiellt Samväldet Bahamas, är ett självständigt l
 jobtitle = "Monark"
 
 [stats]
-Valspråk: = "Forward, Upward, Onward, Together"
+Valspråk: = "Framåt, Uppåt, Bortåt, Tillsammans"
 Nationalsång: = "March On, Bahamaland"
 Befolkning: = "400,516 (2022 est)"
 Yta: = "13,878 km²"
