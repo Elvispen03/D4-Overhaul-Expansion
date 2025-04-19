@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "Demokratiska Republiken Kongo"
+description = "Demokratiska Republiken Kongo, informellt Kongo-Kinshasa, DR Kongo, DRK, DROK, eller Kongo, samt förut och även i vardagsspråk Zaire, är ett land i Centralafrika. Det är, till ytan, det andra största landet i Afrika (efter Algeriet), och det 11:e största i världen. Med en befolkning på drygt 92 miljoner, är Demokratiska Republiken Kongo det mest befolkningsrika officiellt fransktalande landet i världen. De är medlemmar i Förenta Nationerna, Alliansfria Rörelsen, Afrikanska Unionen, COMESA, samt den Östafrikanska gemenskapen. Huvudstaden och den största staden är Kinshasa, vilket också är världens mest befolkningsrika fransktalande stad."
 
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+Nationalsång: = "Stå upp Kongoleser"
+Befolkning: = "92 miljoner (2021)"
+Yta: = "2,345,409 km²"
+Valuta: = "Kongolesisk franc (CDF)"
+BNP: = "$46 miljarder"
+BNP per capita: = "$501"
+Demokratiindex: = "~2.76/10 (164:e)"
+Största industri: = "Jordbrukssektor/Gruvsektor"
+Huvud- och största stad: = "Kinshasa"
+Körsida: =	"höger"
+Landsnummer: = "+243"
