@@ -1,17 +1,17 @@
 [config]
 name  = canada
-guiname = "Canada"
-description = "Canada is a Federal parliamentary democracy with a constitutional monarchy. The Prime Minister is elected. Formally a colony of Great Britain, the new nation of Canada first became a democracy in 1867. In 1919 women won the vote but it wasn't until 1960 when all Canadian citizens, irrespective of ethnicity, could vote and universal suffrage became law."
+guiname = "Kanada"
+description = "Kanada är en federal parlamentarisk demokrati med en konstitutionell monarki. Premiärministern är vald. Tidigare en Brittisk koloni, blev den nya nationen Kanada en demokrati först 1867. År 1919 vann kvinnor rätten att rösta men det dröjde till 1960 när alla kanadensiska medborgare, oavsett etnicitet, kunde rösta och allmän rösträtt blev lag."
 
-jobtitle = "Prime Minister"
+jobtitle = "Premiärminister"
 
 [stats]
-Population: = "37.742,154 (2020)"
-Size: = "9,984,670 sq km"
-Religion: = "69.3% Christian, 24.9% Unaffiliated, 1.2% Islam, 1.0% Hinduism,1.4% Sikhism"
-Exports: = "Oil, wood, refined fuel, gold, metals and gems"
-World Leader:  = "Longest coastline, quality of life, transparency of government and business"
-National obsessions: =  "Maple Syrup, Ice Hockey, Politeness, Diversity"
+Befolkning: = "37.742,154 (2020)"
+Yta: = "9,984,670 km²"
+Religion: = "69.3% Kristna, 24.9% Icke-religiösa, 1.2% Islam, 1.0% Hinduism, 1.4% Sikhism"
+Exporter: = "Olja, trä, raffinerat bränsle, guld, metaller och ädelstenar"
+Världsledande:  = "Längsta kustlinje, livskvalité, transparency of government and business"
+National besatthet: =  "Lönnsirap, Ishockey, Trevlighet, Olikhet"
 
 
 
