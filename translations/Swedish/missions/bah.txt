@@ -1,7 +1,7 @@
 [config]
 name  = bah
 guiname = "Samväldet Bahamas"
-description = "Bahamas, officiellt Samväldet Bahamas, är ett självständigt land inom Lucayan skärgården i Västindien i Atlanten. Det omfattar upp till 97% Lucayan skärgårdens landområde och är hem till 88% av skärgårdens befolkning. Skärgårdsstaten består av mer än 3000 öar, kajer och holmer i Atlanten, och är lokaliserad norr om Kuba och nordväst om ön Hispaniola (delad mellan Haiti och Dominikanska Republiken) och Turks- och Caicosöarna, sydöst om den amerikanska staten Florida, och öst om Florida Keys. Huvudstaden är Nassau belägen på ön New Providence. Landets militär "The Royal Bahamas Defence Force" beskriver Bahamas territorium som omfattande 470,000 km² (180,000 kvm) av havsyta"
+description = "Bahamas, officiellt Samväldet Bahamas, är ett självständigt land inom Lucayan skärgården i Västindien i Atlanten. Det omfattar upp till 97% Lucayan skärgårdens landområde och är hem till 88% av skärgårdens befolkning. Skärgårdsstaten består av mer än 3000 öar, kajer och holmer i Atlanten, och är lokaliserad norr om Kuba och nordväst om ön Hispaniola (delad mellan Haiti och Dominikanska Republiken) och Turks- och Caicosöarna, sydöst om den amerikanska staten Florida, och öst om Florida Keys. Huvudstaden är Nassau belägen på ön New Providence. Landets militär "The Royal Bahamas Defence Force" beskriver Bahamas territorium som omfattande 470,000 km² (180,000 kvm) av havsyta."
 
 jobtitle = "Monark"
 
@@ -16,5 +16,5 @@ BNP per capita: = "$33,494"
 Demokratiindex: = "Ingen data"
 Största industri: = "Turism"
 Huvud- och största stad: = "Nassau"
-Körisda: =	"vänster"
+Körsida: =	"vänster"
 Landsnummer: = "+1 242"
