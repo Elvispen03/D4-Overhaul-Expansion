@@ -1,17 +1,17 @@
 [config]
 name  = france
-guiname = "France"
-description = "France, or the French Republic was an absolute monarchy at the time of the French Revolution in 1789. In 1792, with the motto ‘Liberty, Equality and Fraternity’, France became one of the earliest modern republics. It took another 80 years for France to become a democracy. Even then, democratic rights were sometimes derailed, including during World War II and it wasn't until the Fifth Republic was established in 1958 that democratic rule stabilised. France has an elected President and a Prime Minister appointed by the President. France is a leading member of the European Union and a member of NATO."
+guiname = "Frankrike"
+description = "Frankrike, eller den Franksa Republiken var en absolut monarki vid tiden av den franska revolutionen år 1789. År 1792, med valspråket 'Frihet, Jämlikhet och Broderskap', blev Frankrike en av de första moderna republikerna. Det tog 80 fler år för Frankrike att bli en demokrati. Även då, var demokratiska rättigheter ibland urspårade, bland annat under andra världskriget och det var inte förrän den Femte Republiken blev etablerad 1958 som demokratisk ordning stabiliserades. Frankrike har en vald president och en premiärminister utsedd av presidenten. Frankrike är en ledande medlem i Europeiska Unionen samt en medlem i NATO."
 jobtitle = "President"
 
 [stats]
-Population: = "65,273,511"
-Size: = "643,801 sq km"
-Religion: = "Catholicism 41%, None 40%, Islam 5%"
-Exports: = "Machinery, aircraft, vehicles, pharmaceuticals, plastics, cosmetics, beverages. "
-World Leader: = "Luxury goods, tourism, welfare state funding, exporting electricity."
-Member of: = "Eurozone, EU single market, NATO, G4"
-National obsessions: = "Gastronomy, equality, wine, competitive cycling."
+Befoklning: = "65,273,511"
+Yta: = "643,801 km²"
+Religion: = "Katolicism 41%, Ingen 40%, Islam 5%"
+Exporter: = "Maskineri, flygplan, fordon, läkemedel, plast, kosmetika, drycker. "
+Världsledande: = "Lyxprodukter, turism, välfärdsfinansiering, export av elektricitet."
+Medlemskap: = "Eurozonen, EU: inre marknad, NATO, G4"
+Nationell besatthet: = "Gastronomi, jämlikhet, vin, cykeltävling."
 
 
 
