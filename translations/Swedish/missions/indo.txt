@@ -1,19 +1,19 @@
 [config]
 name  = indo
-guiname = "Republic of Indonesia"
-description = "Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia and Oceania, between the Indian and Pacific oceans. It consists of more than seventeen thousand islands, including Sumatra, Java, Sulawesi, and parts of Borneo (Kalimantan) and New Guinea (Papua). Indonesia is the world's largest island country and the 14th-largest country by land area, at 1,904,569 square kilometres (735,358 square miles). With 270 million people, it is the world's 4th-most populous country as well as the most populous Muslim-majority country. Java, the world's most populous island, is home to more than half of the country's population."
+guiname = "Republiken Indonesien"
+description = "Indonesien, officiellt Republiken Indonesien, är ett land i Sydostasien och Oceanien, mellan Indiska och Stilla havet. Det består av mer än sjutton tusen öar, inklusive Sumatra, Java, Sulawesi, och delar av Borneo (Kalimantan) och Nya Guinea (Papua). Indonesien är världens största ö-land, och det 14: största landet sett till landyta, på 1 904 569 kvadratkilometer (735 358 kvadratkilometer). Med 270 miljoner människor är det världens 4:e folkrikaste land samt det mest befolkade landet med muslimsk majoritet, världens folkrikaste ö, är hem för mer än hälften av landets befolkning."
 
 jobtitle = "President"
 
 [stats]
-Motto: = "Unity in Diversity"
-National Anthem: = "Great Indonesia"
-Population: = "270 million (2020)"
-Area: = "1,904,569 km2 (735,358 sq mi)"
-Currency: = "Indonesian Rupiah (Rp)"
-GDP: = "$1.089 trillion (14,027,944,154,499,000.00 Rp)"
-GDP per capita: = "$4,038 (56,111,003.76 rp)"
-Democracy Index: = "6.48/10 (64th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Jakarta"
-Driving side: =	"left"
+Valspråk: = "Enighet i mångfald"
+Nationalsång: = "Indonesia Raya"
+Befolkning: = "270 miljoner (2020)"
+Yta: = "1,904,569 km² (735,358 sq mi)"
+Valuta: = "Rupiah (Rp)"
+BNP: = "$1.089 biljoner (14,027,944,154,499,000.00 Rp)"
+BNP per capita: = "$4,038 (56,111,003.76 rp)"
+Demokratiindex: = "6.48/10 (64:e)"
+Största industri: = "Jordbruk"
+Huvud- och största stad: = "Jakarta"
+Körsida: =	"vänster"
