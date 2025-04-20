@@ -1,16 +1,16 @@
 [config]
 name  = germany
-guiname = "Germany"
-description = "The Federal Republic of Germany, more commonly known as Germany,  is a Federal Parliamentary Republic uniting the sixteen states under the leadership of the President (largely ceremonial) and the Federal Chancellor. Germany has a strong, growing economy which is one of the best in the world. Germany is a leading member of the European Union. Germany first became a democracy in 1919, but was ruled as a dictatorship from 1933. After World War II which ended in 1945 and some years of confusion, it reverted back to a democracy in 1949."
-jobtitle = "Chancellor"
+guiname = "Tyskland"
+description = "Förbundsrepubliken Tyskland, vanligen mer känt som Tyskland, är en federal parlamentarisk republik som förenar sexton delstater under ledarskap av presidenten (mest ceremoniell roll) och förbundskanslern. Tyskland har en stark, växande ekonomi vilket är en av de bästa i världen. Tyskland är en ledande medlem i Europeiska Unionen. Tyskland blev en demokrati först 1919, men styrdes som en diktatur från 1933. Efter andra världskriget som avslutades 1945 och några år av förvirring, återvände det tillbaka till en demokrati år 1949."
+jobtitle = "Förbundskansler"
 
 [stats]
-Population: = "83,783,942 (2020)"
-Size: = "357,386 sq km"
-Religion: = "None 39%, Roman Catholic 27%, Protestant 25%, Islam 5%, "
-Exports: = "Vehicles, machinery, chemicals, electronics, pharmaceuticals, metals, food."
-World Leader: = "Climate and energy policies, number of zoos (>400), exports"
-Member of: = "Eurozone, EU single market, NATO, G4"
+Befolkning: = "83,783,942 (2020)"
+Yta: = "357,386 km²"
+Religion: = "Ingen 39%, Romersk-katolsk 27%, Protestanter 25%, Islam 5%, "
+Exporter: = "Fordon, maskineri, kemikalier, elektronik, läkemedel, metaller, mat."
+Världsledande: = "Klimat- och energilagar, antalet zoo:n (>400), exporter"
+Medlemskap: = "Eurozonen, EU:s inre marknad, NATO, G4"
 
 
 
