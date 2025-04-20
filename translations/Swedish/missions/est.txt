@@ -1,19 +1,19 @@
 [config]
 name  = est
-guiname = "Republic of Estonia"
-description = "Estonia, officially the Republic of Estonia, is a country in northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the Baltic Sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,200 other islands and islets on the eastern coast of the Baltic Sea, covering a total area of 47 549 km2. The size of the territory without Lake Peipsi is 43,432.31  km2. The capital city Tallinn and Tartu are the two largest urban areas of the country. The Estonian language is the autochthonous and the official language of Estonia; it is the first language of the majority of its people, as well as the world's second most spoken Finnic language."
+guiname = "Republiken Estland"
+description = "Estland, officiellt Republiken Estland, är ett land i norra Europa. Det gränsar i norr till Finska viken mittemot Finland, i väst till Östersjön mittemot Sverige, i söder till Lettland, och i öst till sjön Peipus och Ryssland. Estlands territorium består av fastlandet, de större öarna Saaremaa samt Hiiumaa, och över 2,200 andra öar och holmar i den östra Östersjökusten, täcker en totalyta av 47 549 km². Områdets storlek utan sjön Peipus är 43,432.31 km². Huvudstaden Tallinn och Tartu är de två största urbana områdena i landet. Det estniska språket är autoktona och Estlands officiella språk; det är första språk för majoriteten av dess folk, samt världens andra mest talade finska språket."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "My Fatherland, My Happiness and Joy"
-Population: = "1.328 million (2018)"
-Area: = "47,549 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$49 billion"
-GDP per capita: = "$44,853"
-Democracy Index: = "~7.74/10 (27th)"
-Biggest Industry: = "Industry Sector/Energy Sector"
-Capital (and largest city): = "Tallinn"
-Driving side: =	"right"
-Calling code: = "+372"
+Nationalsång: = "Mitt fädernesland, Min Lycka och glädje"
+Befolkning: = "1.328 miljoner (2018)"
+Yta: = "47,549 km²"
+Valuta: = "Euro (€) (EUR)"
+BNP: = "$49 miljarder"
+BNP per capita: = "$44,853"
+Demokratiindex: = "~7.74/10 (27:e)"
+Största industri: = "Industrisektor/Energisektor"
+Huvud- och största stad: = "Tallinn"
+Körsida: =	"höger"
+Landsnummer: = "+372"
