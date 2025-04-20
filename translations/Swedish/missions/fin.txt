@@ -1,18 +1,18 @@
 [config]
 name  = fin
-guiname = "Republic of Finland"
-description = "Finland, officially the Republic of Finland is a Nordic country located in Northern Europe. Finland shares land borders with Sweden to the west, Russia to the east, and Norway to the north, Finland has a population of approximately 5.5 million, making it the 25th-most populous country in Europe. The main language is Finnish, Swedish is the second official language of Finland, Finland is a parliamentary republic consisting of 19 regions and 310 municipalities. The climate varies significantly relative to latitude, from Southern Finland's humid continental climate to the boreal climate of the north. Finland is primarily a boreal forest biome, with more than 180,000 recorded lakes, With an area of 338,455 square kilometres (130,678 sq mi), Finland is the eighth-largest country in Europe, and the most sparsely populated country in the European Union. Helsinki, the capital of Finland, is the largest metropolitan area with over 1.5 million people."
+guiname = "Republiken Finland"
+description = "Finland, officiellt Republiken Finland är ett nordiskt land lokaliserat i norra Europa. Finland delar landsgräns med Sverige i väst, Ryssland i öst, och Norge i norr, Finland har en befolkning av ungefär 5.5 miljoner, vilket gör det till det 25: mest befolkningsrika land i Europa. Huvudspråket är finska, svenska är det andra officiella språket i Finland, Finland är en parlamentär republik bestående av 19 regioner och 310 kommuner. Klimatet varierar väsentligt relaterat till latitud, från Södra Finlands fuktiga inlandsklimat till det boreala klimatet i norr. Finland är primärt ett borealt skogsbiom, med mer än 180,000 dokumenterade sjöar, med en yta på 338,455 kvadratkilometer (130,678 sq mi), Finland är det åttonde största landet i Europa, och det mest glesbefolkade land i Europeiska Unionen. Helsingfors, Finlands huvudstad, är det största storstadsområdet med över 1.5 miljoner människor."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "Our Land"
-Population: = "5.5 million people (2020)"
-Area: = "338,455 km2 (130,678 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$277 billion (€230,139,104,151.60 EUR)"
-GDP per capita: = "$48,461 (€40,262.42 EUR)"
-Democracy Index: = "9.25/10 (5th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Helsinki"
-Driving side: =	"right"
+Nationalsång: = "Vårt Land"
+Befolkning: = "5.5 miljoner människor (2020)"
+Yta: = "338,455 km² (130,678 sq mi)"
+Valuta: = "Euro (€) (EUR)"
+BNP: = "$277 miljarder (€230,139,104,151.60 EUR)"
+BNP per capita: = "$48,461 (€40,262.42 EUR)"
+Demokratiindex: = "9.25/10 (5:e)"
+Största industri: = "Elektronik"
+Huvud- och största stad: = "Helsingfors"
+Körsida: =	"höger"
